@@ -1,0 +1,13 @@
+
+
+========SUPER STORE SALES DASHBOARD=========
+
+1.Sum of sales & profit by state.
+2.Sales by shipmode.
+3.Sales by category.
+4.Sales by sub-catehgory.
+5.Monthly profit by YOY.
+6.Monthly sales by YOY.
+7.Sum of sales by region.
+8.Sum of sales by segment.
+9.Sum of sales by payment mode.
